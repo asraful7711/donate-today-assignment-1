@@ -5,7 +5,7 @@
 body {
     font-family: 'Inter', sans-serif;
 }
-
+/* ----------banner part start ------------------- */
 .banner {
     text-align: center;
     background-image:linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%), url(../images/donation5.jpg);
@@ -36,9 +36,9 @@ body {
     border-radius: 5px;
 
 }
+/*--------- banner part end --------------- */
 
-
-/* donate amount part  */
+/*------------- donate amount part start------ */
 .donations{
     text-align: center;
     margin-bottom: 130px;
@@ -98,8 +98,10 @@ body {
     background-color: #FF5959;
     border-radius: 5px;
 }
+/*---------- donation amount part end --------- */
 
-/* donation plan  */
+
+/* -----------donation plan part ------*/
 .catagories{
     display: flex;
     margin: 5%;
@@ -117,7 +119,7 @@ body {
     margin:20px 200px;
     
 }
-/*------- food ------ */
+/*---- food --- */
 #food{
     text-align: left;
     color: #121212;
@@ -136,7 +138,7 @@ body {
 }
 
 
-/*------- shelter  ------*/
+/*--- shelter  ---*/
 
 #shelter{
     color: #121212;
@@ -154,7 +156,7 @@ body {
 }
 
 
-/*--------- education--------- */
+/*---- education-- */
 #education {
     background-color: antiquewhite;
     padding:70px 23px;
@@ -167,6 +169,9 @@ body {
 #education p{
     text-align: left;
 }
+/*------ donation plan part end --------- */
+
+/*--- documentry-part start  ---*/
 .documentry-part{
     display: flex;
     margin-left: 100px;
@@ -191,8 +196,9 @@ body {
     background-color: #FF5959;
     border-radius: 5px;
 }
+/*----- documentry-part end--------- */
 
-/* my updates */
+/*----- my updates part-------------*/
 .my-updates{
     text-align: center;
     margin: 130px 300px;
@@ -225,6 +231,8 @@ body {
     border-radius: 0px 10px 10px 0px;
 }
 
+
+/* footer part  */
 footer{
     height: 177px;
     background: #0B0D17;
