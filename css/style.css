@@ -195,7 +195,7 @@ body {
 /* my updates */
 .my-updates{
     text-align: center;
-    margin: 20px 300px;
+    margin: 130px 300px;
 }
 .my-updates h2{
     font-weight: 700;
@@ -223,4 +223,22 @@ body {
     color: #FFFFFF;
     background-color: #FF5959;
     border-radius: 0px 10px 10px 0px;
+}
+
+footer{
+    height: 177px;
+    background: #0B0D17;
+    text-align: center;
+    padding-top:50px ;
+
+}
+footer h4{
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    font-weight: 400;
+    font-size: 36px;
+    padding-bottom: 20px;
+}
+footer p{
+    color: #D9DBE1;
 }
