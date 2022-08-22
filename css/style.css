@@ -110,11 +110,11 @@ body {
     font-size: 45px;
     margin-bottom: 20px;
 }
-.donation-plan p{
+.donation-plan h5{
     text-align: center;
     font-weight: 400;
     font-size: 18px;
-    margin-bottom:20px 200px;
+    margin:20px 200px;
     
 }
 /*------- food ------ */
@@ -166,4 +166,28 @@ body {
 }
 #education p{
     text-align: left;
+}
+.documentry-part{
+    display: flex;
+    margin-left: 100px;
+}
+.documentry-info{
+    margin-left: 50px;
+    margin-right: 70px;
+}
+.documentry-info h2{
+    font-weight: 700;
+    font-size: 45px;
+}
+.documentry-info p{
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.documentry-info a{
+    text-decoration: none;
+    padding: 16px 20px;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    border-radius: 5px;
 }
